@@ -20,7 +20,12 @@ class Customers extends Component {
         {customer.firstName} {customer.lastName}
       </li>
     ));
-    return <ul>{customers}</ul>;
+    return (
+      <>
+        <h1>Customers:</h1>
+        <ul>{customers}</ul>
+      </>
+    );
   }
 }
 export default Customers;
