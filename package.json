@@ -1,0 +1,19 @@
+{
+  "name": "react-express-app",
+  "version": "1.0.0",
+  "description": "simple full stack app with react & express",
+  "main": "sever.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "pitmal",
+  "license": "MIT",
+  "dependencies": {
+    "concurrently": "^5.0.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
