@@ -15,5 +15,13 @@
   },
   "devDependencies": {
     "nodemon": "^1.19.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pitmal/react-express-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pitmal/react-express-app/issues"
+  },
+  "homepage": "https://github.com/pitmal/react-express-app#readme"
 }
